@@ -9,7 +9,7 @@ Welcome to my first blog created using the Hugo site generator and published as 
  - Functional vs Object Oriented programming patterns
  - Data Science
  - Web technologies
- - or anything else that pique my interest enough to write about it.
+ - or anything else that pique my interest to write about it.
 
 
 ----------
